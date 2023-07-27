@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=site_schema.json
+date_format: "dd MMM yyyy"
+yaml_delimeter: "---"
+output_dir: web
+site_options:
+  generator: DSG A Dart Static Site Generator  
+  title: Full Application STack Dart
+  email: admin@manichord.com
+  url: https://manichord.com
+  description: Full Application STack Dart
+  keywords: Dart, Flutter
+  meta_author: Manichord
+  year: 2023 
+  
+  
