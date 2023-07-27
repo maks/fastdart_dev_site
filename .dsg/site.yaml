@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=site_schema.json
 date_format: "dd MMM yyyy"
 yaml_delimeter: "---"
-output_dir: web
+output_dir: _public
 site_options:
   generator: DSG A Dart Static Site Generator  
   title: Full Application STack Dart
